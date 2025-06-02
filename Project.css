@@ -1026,7 +1026,6 @@ footer{
         padding-top: 20px;
         padding-right: 20px;
         padding-bottom: 15px;
-
     }
 
     .check{
@@ -1148,11 +1147,11 @@ footer{
     }
 
     .whole-container{
-    background-color: #f8f7ff;
-    display: flex;
-    justify-content: center;
-    padding-top: 50px;
-    padding-bottom: 70px;
+        background-color: #f8f7ff;
+        display: flex;
+        justify-content: center;
+        padding-top: 50px;
+        padding-bottom: 70px;
     }
 
     .revenue{
