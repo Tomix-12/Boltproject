@@ -109,7 +109,7 @@
     background-color: white;
     padding: 10px;
     transform: skew(-10deg);
-    position: relative;
+    position: relative; 
 }
 
 .onhover{
